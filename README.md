@@ -20,3 +20,5 @@ Finally, we will create two models to predict the attrition using Logistic Regre
 To compare the performance of the models, we will use the metrics like - accuracy, confusion matrix, precison and recall, and select our best performing model to move to production.
 
 Generally, we can also withhold some 15% of the input dataset as validation dataset which should not be used for training and testing the models. It should only be used to evaluate the actual performance once the model is in production. So that, we can further check and enhance our model.
+
+The Python script (.py format after converting from .pynb notebook format - to hide the results) is provided in a separate Model.py file.
